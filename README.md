@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5lb5tqo0f76gq1vx?svg=true)](https://ci.appveyor.com/project/TatianaYuryeva/unit-test-matchers)
